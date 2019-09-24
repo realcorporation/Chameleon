@@ -950,6 +950,9 @@
             rgba[3] = 1.0f;
             break;
         }
+        case kCGColorSpaceModelXYZ:
+            //TODO::handle later
+            break;
     }
 }
 
